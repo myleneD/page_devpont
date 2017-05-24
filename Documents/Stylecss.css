@@ -1,0 +1,98 @@
+/* --ensemble_des_pages-- */
+
+*
+{
+	font-family: serif;
+}
+
+body
+{
+	background-image: url("depositphotos_7238801-stock-illustration-foliage-frame-with-summer-nature.jpg");
+	background-size: 100%;
+	background-repeat: repeat;
+}
+
+h1
+{
+	text-align: center;
+}
+
+p
+{
+	font-weight: bold;
+}
+
+/* --acceuil-- */
+
+.photo_acceuil{
+	width: 1000px;
+	height: 800px;
+}
+
+/* --presentation-- */
+
+.titre
+{
+	text-align: justify;
+	
+}
+
+h2
+{
+	text-align: center;
+	text-decoration: underline;
+	font-size: 25px;
+}
+
+
+/* --formation-- */
+
+.code
+{
+	width: 950px;
+	height: 750px;
+}
+
+.photo_formation{
+	width: 1000px;
+	height: 600px;
+}	
+
+/* --contact-- */
+
+.fb{
+	width: 150px;
+	height: 150px;
+}
+
+
+.tw{
+	width: 150px;
+	height: 150px;
+}
+
+
+/* --menu_barre-- */
+
+.menu ul li
+{
+	list-style:none;
+	margin-left:0px;
+ 	float:right;
+ 	display:block;  
+ 	width:120px;
+ 	line-height:50px;
+ 	background:greenyellow; repeat-x;
+ 	text-decoration:none;
+ 	text-align:center;
+ 	border-left:0px solid white;
+}
+
+/* --bas_de_page-- */
+
+footer
+{
+	font-size: 12px;
+}
+
+

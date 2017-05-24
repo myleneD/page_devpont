@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+
+<head>
+	<title>Présentation de Dévelo'Pont</title>	
+   <meta charset="utf-8" />
+   <link rel="stylesheet" href="Stylecss.css">
+</head>
+
+
+
+<body>
+
+	<?php include("Barre_menu.html") ?>
+	<h1>Présentation des lieux de la formation</h1>
+	<h2>Les locaux de Legrand :</h2>		
+		
+		<img src="http://www.legrand.us/-/media/images/logos/legrand/logo-legrand_red.ashx?la=en" alt="">
+		<section>		
+			<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, </p>
+			<p>sed diam nonumy eirmod tempor invidunt ut labore et dolore magna </p>
+			<p>aliquyam erat, sed diam voluptua. At vero eos et accusam et justo </p>
+			<p>duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata </p>
+			<p>sanctus est Lorem ipsum dolor sit amet.</p>
+		</section>
+		<img src="http://www.batiactu.com/images/auto/620-465-c/20120228_182020_centre-formation-legrand-de-bagnolet.jpg" alt="">
+		<section>
+			<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam </p>
+			<p>nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam</p>		
+		</section>
+	<hr />
+	<h2>Présentation de Dévelo'Pont</h2>
+		<section>
+			<img src="http://simplon.co/wp-content/uploads/2017/01/devlopont-e1484757449647.jpg" alt="">
+			<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy </p>
+			<p>eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. </p>
+			<p>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, </p>
+			<p>no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, </p>
+			<p>consetetur sadipscing elitr, sed diam</p>
+			
+			
+			
+		</section>
+
+</body>
+
+
+
+<footer>
+	<h3>Auteur de la page : Mylène DRAGON</h3>
+	<h3>Copyright : 58.189.1.47</h3>
+</footer>

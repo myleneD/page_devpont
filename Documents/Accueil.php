@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+
+<head>
+	<title>Page d'acceuil de Dévelo'Pont</title>	
+	<?php include("header.html") ?>
+</head>
+
+
+<body>
+	<?php include("Barre_menu.html") ?>
+	<header>
+		<h1>Bienvenue a Dévelo'Pont !</h1>
+	</header>
+	
+	<section>	
+		<aside>		
+			<img src="https://scontent-mad1-1.xx.fbcdn.net/v/t31.0-8/18422224_426066691125922_8623687989700130782_o.jpg?oh=9c619a2328a5bc00dc50da910aa71c39&oe=5979C1E1" class="photo_acceuil">
+		</aside>
+	</section>
+</body>
+
+
+<?php include("footer.html") ?>
